@@ -1,0 +1,11 @@
+.banner {
+    background-image: url("../../images/banner-image3.jpg");
+    height: 370px;
+    margin: 0 !important;
+    padding: 0 !important;
+    color:blueviolet;
+    /* background-repeat: no-repeat; */
+    font-size: 40px !important;
+    font-weight: 600;
+  }
+  
